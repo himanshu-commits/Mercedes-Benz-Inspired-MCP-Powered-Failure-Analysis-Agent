@@ -6,4 +6,4 @@
 
 3. Implemented MCP-based tool orchestration enabling the Agent to dynamically trigger API’s based on user query for retrieval, analytics, and automated reporting integrated with Notion and n8n webhook workflows.
 
-Setup was on Company PC cannot import it publically. for more details about the project reach me out at himanshu.gupta@tu-ilmenau.de
+Setup was on Company PC ( Mercedes Benz ) cannot import it publically. for more details about the project reach me out at himanshu.gupta@tu-ilmenau.de
